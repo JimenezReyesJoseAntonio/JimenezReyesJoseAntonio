@@ -2,7 +2,7 @@
 
 Mi nombre es José Antonio.
 
-## Desarrollador
+## Desarrollador 
 
 * 🌍 Vivo en México.
 * ✉️ Puedes contactarme en [josejimenezreyes36@gmail.com](mailto:josejimenezreyes36@gmail.com).
